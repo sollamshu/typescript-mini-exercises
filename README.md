@@ -11,8 +11,8 @@ To get this project up and running on your local machine, follow these steps:
 If you haven't already, clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/sollamshu/typescript-mini-exercises.git
+cd typescript-mini-exercises
 ```
 ### 2. Install Dependencies
 First, ensure you have Node.js and npm (or Yarn) installed. Then, install the project's dependencies, including TypeScript, ts-node, Jest, and its related types:

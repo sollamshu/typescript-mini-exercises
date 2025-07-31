@@ -1,4 +1,4 @@
-import { isOdd } from '../exercises/exercise2';
+import { isOdd } from '../src/exercises/exercise2';
 
 describe('Exercise 2: Detecting if Number is Odd', () => {
   test('Number is odd', () => {

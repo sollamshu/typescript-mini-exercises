@@ -1,4 +1,4 @@
-import { containsConsecutive } from '../exercises/exercise1';
+import { containsConsecutive } from '../src/exercises/exercise1';
 
 describe('Exercise 1: Detecting Two Consecutive Identical Numbers in Array', () => {
   test('Array does not contains consecutive identical numbers', () => {

@@ -1,4 +1,4 @@
-import { findLargestNumber } from '../exercises/exercise3';
+import { findLargestNumber } from '../src/exercises/exercise3';
 
 describe('Exercise 3: Finding the Largest Number', () => {
   test('Number is the largest', () => {

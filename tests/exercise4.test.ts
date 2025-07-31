@@ -1,4 +1,4 @@
-import { sortNumbersAscending } from '../exercises/exercise4';
+import { sortNumbersAscending } from '../src/exercises/exercise4';
 
 describe('Exercise 4: Sort Numbers Ascending', () => {
   test('Number is the largest', () => {

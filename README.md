@@ -14,6 +14,7 @@ If you haven't already, clone this repository to your local machine:
 git clone https://github.com/sollamshu/typescript-mini-exercises.git
 cd typescript-mini-exercises
 ```
+
 ### 2. Install Dependencies
 First, ensure you have Node.js and npm (or Yarn) installed. Then, install the project's dependencies, including TypeScript, ts-node, Jest, and its related types:
 
@@ -21,7 +22,7 @@ First, ensure you have Node.js and npm (or Yarn) installed. Then, install the pr
 npm install
 ```
 
-### 3. Running Exercises
+## Running Exercises
 ```bash
 npm test
 ```
